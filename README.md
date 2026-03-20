@@ -87,6 +87,14 @@ The CLI resolves two paths at runtime:
 
 If no `.editorconfig` exists at the destination, it is copied instantly. If one already exists, an overwrite prompt is shown before any changes are made. All errors are caught and displayed with a non-zero exit code, ensuring shell scripts and CI pipelines can detect failures.
 
+### Configuration Decisions
+
+- **`end_of_line = lf`** - Unix line endings are the cross-platform standard for source code. Git, Linux, and macOS all default to `LF`, and most tooling (ESLint, Prettier, Biome) expects it.
+- **`*.{bat,cmd,ps1} = crlf`** - Windows scripting formats require `CRLF`. The Windows script host and some parsers behave unexpectedly with `LF`-only line endings in these files.
+- **`*.sh = lf`** - Shell scripts break on `CRLF`. The Unix shebang line (`#!/bin/bash`) must be `LF`-terminated or the interpreter fails to parse it.
+- **`*.go = tab`** - `gofmt` enforces tabs. Fighting it is futile and breaks the whole Go toolchain.
+- **`trim_trailing_whitespace = false` for `*.md`** - Markdown uses trailing spaces as intentional line breaks (`\n`). Trimming them silently breaks formatting.
+- **`insert_final_newline = true`** - POSIX defines a text file as ending with a newline. Omitting it causes noisy diffs and warnings in many tools.
 <br>
 
 ## Motivation
