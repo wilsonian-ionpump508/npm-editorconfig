@@ -16,7 +16,7 @@
     ],
     "scripts": {
         "build": "tsc",
-        "pub": "git push origin main --tags"
+        "pub": "pnpm build && git push origin main --tags"
     },
     "keywords": [
         "editorconfig",
