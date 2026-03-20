@@ -16,8 +16,7 @@
     ],
     "scripts": {
         "build": "tsc",
-        "test": "vitest --run --passWithNoTests",
-        "pub": "pnpm test && git push origin main --tags"
+        "pub": "git push origin main --tags"
     },
     "keywords": [
         "editorconfig",
@@ -48,8 +47,7 @@
         "@igorskyflyer/biome-config": "^2.2.0",
         "@igorskyflyer/tsconfig": "^1.0.2",
         "@types/node": "^24.12.0",
-        "typescript": "^5.9.3",
-        "vitest": "^4.1.0"
+        "typescript": "^5.9.3"
     },
     "publishConfig": {
         "access": "public"
